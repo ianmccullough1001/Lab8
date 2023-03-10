@@ -37,6 +37,7 @@ public class CustomListTest {
         City city = new City("Estevan", "Sak");
         list.addCity(city);
         assertTrue(list.hasCity(city));
+        //
     }
 
 }
